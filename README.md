@@ -1,1 +1,2 @@
-# xirix-contact-lenses
+Xirix Landing Page
+====================
