@@ -13,9 +13,9 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Sofía Molina
   pic: 1
-  position: Lead Designer
+  position: Dieseñadora en jefe
   social:
     - title: twitter
       url: #
@@ -24,9 +24,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Gabriel Hernandez
   pic: 2
-  position: Lead Marketer
+  position: Comercializador en jefe
   social:
     - title: twitter
       url: #
@@ -35,15 +35,37 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Juan Pablo Ruiz
   pic: 3
-  position: Lead Developer
+  position: CEO
   social:
     - title: twitter
       url: #
     - title: facebook
       url: #
     - title: google-plus
+      url: #
+
+- name: Alfonso Higuera
+  pic: 4
+  position: Desarrollador en jefe
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: José Luis Rivas
+  pic: 5
+  position: Jefe de Ingeniería
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
