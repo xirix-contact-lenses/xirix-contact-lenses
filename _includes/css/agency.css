@@ -12,14 +12,14 @@ body {
 
 #video-frame {
     background: url("img/mac/retina.png") no-repeat center;
-    background-size: 86%;
+    background-size: 100%;
     text-align: center;
-    min-width: 400px;
-    min-height: 400px;
+    min-width: 500px;
+    min-height: 500px;
 }
 
 #youtube {
-    padding-top: 29px;
+    padding-top: 50px;
 }
 
 .btn-circle {
